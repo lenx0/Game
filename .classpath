@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ExemploPoo/src"/>
+	<classpathentry kind="src" path="Game_01/src"/>
+	<classpathentry kind="src" path="Game_02/src"/>
+	<classpathentry kind="src" path="JavaInicio/src"/>
+	<classpathentry kind="src" path="LogicaDosGames/src"/>
+	<classpathentry kind="src" path="POO/src"/>
+	<classpathentry kind="src" path="ProgramaDeLeitura/src"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-reflect-sources.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-reflect.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-stdlib-jdk7-sources.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-stdlib-jdk7.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-stdlib-jdk8-sources.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-stdlib-jdk8.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-stdlib-sources.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-stdlib.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-test-sources.jar"/>
+	<classpathentry kind="lib" path="JavaInicio/lib/kotlin-test.jar"/>
+	<classpathentry kind="output" path="ExemploPoo/out/production/exemploPOO"/>
+</classpath>
